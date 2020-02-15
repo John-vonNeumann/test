@@ -1,0 +1,12 @@
+/* home/home.wxss */
+.no1{
+  position: absolute;
+  left: 195rpx;
+  top: 180rpx;
+}
+.no2{
+  position: absolute;
+  left: 195rpx;
+  top: 330rpx;
+}
+

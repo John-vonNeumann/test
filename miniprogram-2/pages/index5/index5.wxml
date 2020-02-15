@@ -1,0 +1,4 @@
+<!--pages/index5/index5.wxml-->
+<block wx:for="{{title}}" wx:key="{{index}}"> 
+   <view class="content">{{item}}</view>
+</block>

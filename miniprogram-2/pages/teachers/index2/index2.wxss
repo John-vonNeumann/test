@@ -1,0 +1,7 @@
+/* teachers/index2/index2.wxss */
+.navigator{
+  margin-bottom: 36rpx;
+}
+#navigator1{
+  margin-top: 168rpx;
+}

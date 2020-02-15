@@ -1,0 +1,9 @@
+<!--teachers/index2/index2.wxml-->
+<view class="section1">
+    <navigator id = "navigator1" class="navigator" url="/pages/teachers/index3/index3"><button>发布通知</button></navigator>
+    <navigator class="navigator" url="/pages/teachers/index4/index4"><button>宿舍评分</button></navigator>
+    <navigator class="navigator" url="/pages/teachers/index5/index5"><button>查看投诉</button></navigator>
+    <navigator class="navigator" url="/pages/teachers/index6/index6"><button>上传水电费</button></navigator>
+    <navigator class="navigator" url="/pages/teachers/index7/index7"><button>查看学生信息</button></navigator>
+</view>
+

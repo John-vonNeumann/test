@@ -1,0 +1,5 @@
+/* pages/index0/index0.wxss */
+.dormitory{
+  margin-top: 400rpx;
+  margin-bottom: 100rpx;
+}

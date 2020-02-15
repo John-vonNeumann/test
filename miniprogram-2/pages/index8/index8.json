@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "my-prop":"/pages/components/my-prop/my-prop"
+  }
+
+}

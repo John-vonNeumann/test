@@ -1,0 +1,8 @@
+/* pages/index5/index5.wxss */
+.section{
+  background-color: beige;
+}
+.content{
+  font-size: small;
+  color: black;
+}

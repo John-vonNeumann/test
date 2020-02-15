@@ -1,0 +1,17 @@
+/* teachers/index1/index1.wxss */
+@import "/pages/lib/weui.wxss";
+
+.page-section{
+  margin-bottom: 20rpx;
+}
+.section3{
+  display: flex;
+}
+.button1{
+  flex: 1;
+  text-align: center;
+}
+.button2{
+  flex: 1;
+  text-align: center;
+}

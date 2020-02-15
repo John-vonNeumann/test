@@ -1,0 +1,25 @@
+<!--teachers/index1/index1.wxml-->
+ <view class="page-section">
+    <view class="weui-cells__title">请输入宿管编号</view>
+    <view class="weui-cells weui-cells_after-title">
+      <view class="weui-cell weui-cell_input">
+        <input class="weui-input" type="number" placeholder="输入宿管编号" />
+      </view>
+    </view>
+  </view>
+  <view class="page-section">
+    <view class="weui-cells__title">请输入登录密码</view>
+    <view class="weui-cells weui-cells_after-title">
+      <view class="weui-cell weui-cell_input">
+        <input class="weui-input" password type="text" placeholder="这是一个密码输入框" />
+      </view>
+    </view>
+  </view>
+ <block class="section3">
+    <view class="button1">
+        <button form-type="submit" size="mini">登录</button>
+    </view>
+    <view class="button2">
+        <button size="mini">注册</button>
+    </view>
+ </block> 

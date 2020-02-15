@@ -1,0 +1,8 @@
+<!--pages/index4/index4.wxml-->
+<view class="section1">
+    <navigator id = "navigator1" class="navigator" url="/pages/index5/index5"><button>宿管通知</button></navigator>
+    <navigator class="navigator" url="/pages/index6/index6"><button>宿舍排名</button></navigator>
+    <navigator class="navigator" url="/pages/index7/index7"><button>水电费</button></navigator>
+    <navigator class="navigator" url="/pages/index8/index8"><button>拾物窗口</button></navigator>
+    <navigator class="navigator" url="/pages/index9/index9"><button>投诉</button></navigator>
+</view>

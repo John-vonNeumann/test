@@ -1,0 +1,16 @@
+<!--pages/index8/index8.wxml-->
+<view class="section">
+  <form bindsubmit="bindFormSubmit">
+    <textarea class="textarea" placeholder="请描述物品信息" name="textarea"/>
+    <button class="image" bindtap="handleChooseAlbum">上传图片</button>
+    <view class='imagesize'>
+         <image class="imagealign" src="{{imagePath}}"/>
+    </view>
+    <button form-type="submit"> 发布 </button>
+  </form>
+</view>
+
+
+ 
+
+

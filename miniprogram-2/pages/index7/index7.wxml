@@ -1,0 +1,2 @@
+<!--pages/index7/index7.wxml-->
+<view>{{number}}宿舍上个月的水电费为{{money}}元，请及时缴费</view>

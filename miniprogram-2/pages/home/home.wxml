@@ -1,0 +1,13 @@
+<!--home/home.wxml-->
+<view class="num1">
+
+<view><button size="mini" class="no1">宿舍账号登录/注册</button></view>
+<view><button size="mini" class="no2">宿管账号登录/注册</button></view>
+
+</view>
+
+
+
+
+
+

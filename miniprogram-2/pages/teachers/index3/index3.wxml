@@ -1,0 +1,12 @@
+<!--teachers/index3/index3.wxml-->
+<view class="section">
+  <form bindsubmit="bindFormSubmit">
+    <textarea class="textarea" placeholder="发布通知" name="textarea"/>
+    <button class="image" bindtap="handleChooseAlbum">上传图片</button>
+    <view class='imagesize'>
+         <image class="imagealign" src="{{imagePath}}"/>
+    </view>
+    <button form-type="submit"> 发布 </button>
+  </form>
+</view>
+

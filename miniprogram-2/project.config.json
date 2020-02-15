@@ -1,0 +1,69 @@
+{
+	"description": "项目配置文件",
+	"packOptions": {
+		"ignore": []
+	},
+	"setting": {
+		"urlCheck": true,
+		"es6": true,
+		"postcss": true,
+		"preloadBackgroundData": false,
+		"minified": true,
+		"newFeature": true,
+		"autoAudits": false,
+		"coverView": true,
+		"showShadowRootInWxmlPanel": true,
+		"scopeDataCheck": false
+	},
+	"compileType": "miniprogram",
+	"libVersion": "2.10.1",
+	"appid": "wx88349c1952e28d86",
+	"projectname": "%E6%A0%A1%E5%9B%AD%E5%AE%BF%E8%88%8D%E7%AE%A1%E7%90%86",
+	"debugOptions": {
+		"hidedInDevtools": []
+	},
+	"isGameTourist": false,
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"currentL": -1,
+			"list": []
+		},
+		"gamePlugin": {
+			"current": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": -1,
+			"list": [
+				{
+					"id": 0,
+					"name": "pages/宿舍/宿舍登录界面/宿舍登录界面",
+					"pathName": "pages/宿舍/宿舍登录界面/宿舍登录界面",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/宿舍登录界面/宿舍登录界面",
+					"pathName": "pages/宿舍登录界面/宿舍登录界面",
+					"query": "",
+					"scene": null
+				}
+			]
+		}
+	}
+}

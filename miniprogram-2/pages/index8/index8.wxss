@@ -1,0 +1,22 @@
+/* pages/index8/index8.wxss */
+textarea {
+  width: 700rpx;
+  padding: 5rpx 0;
+}
+
+.imagesize{
+ display:flex;                    
+ justify-content: center;       
+}
+.imagesize image { 
+  margin: 10rpx 10rpx;
+  width:400rpx;
+  height:300rpx;
+  }
+.textarea{
+  background-color: beige;
+  margin: auto;
+}
+.image{
+  margin-top: 40rpx;
+}

@@ -1,0 +1,7 @@
+/* pages/index4/index4.wxss */
+.navigator{
+  margin-bottom: 36rpx;
+}
+#navigator1{
+  margin-top: 168rpx;
+}

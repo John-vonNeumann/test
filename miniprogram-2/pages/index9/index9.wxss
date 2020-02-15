@@ -1,0 +1,8 @@
+/* pages/index9/index9.wxss */
+.textarea{
+  margin: 0rpx auto;
+  background-color: beige;
+}
+.submit{
+  margin-top: 40rpx;
+}

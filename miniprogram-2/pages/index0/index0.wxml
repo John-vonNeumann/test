@@ -1,0 +1,11 @@
+<!--pages/index0/index0.wxml-->
+<view class="section1">
+    <navigator url="/pages/index1/index1">
+        <button class="dormitory">宿舍登录/注册</button>
+    </navigator>
+    <navigator url="/pages/teachers/index1/index1">
+        <button>宿管登录/注册</button>
+    </navigator>
+    
+</view>
+

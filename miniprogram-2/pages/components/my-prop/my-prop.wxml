@@ -1,0 +1,4 @@
+<!--pages/components/my-prop/my-prop.wxml-->
+<view class="title">{{title}}</view>
+<view class="content">我是内容</view>
+<button bind:tap="tabIncrement">+1</button>

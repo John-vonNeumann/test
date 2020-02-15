@@ -1,0 +1,41 @@
+{
+  "pages": [
+    "pages/teachers/index2/index2",
+    "pages/index0/index0",
+    "pages/index4/index4",
+    "pages/index5/index5",
+    "pages/teachers/index4/index4",
+   
+    
+   
+    "pages/teachers/index1/index1",
+   
+    "pages/teachers/index3/index3",
+    
+    "pages/teachers/index5/index5",
+    "pages/teachers/index6/index6",
+    
+  
+   
+    
+    "pages/index1/index1",
+    "pages/index2/index2",
+    "pages/index3/index3",
+    "pages/index6/index6",
+    "pages/index7/index7",
+    "pages/index8/index8",
+    "pages/index9/index9",
+    "pages/components/my-prop/my-prop",
+    "pages/home/home"
+  
+
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#ff5777",
+    "navigationBarTitleText": "校园宿舍管理",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
